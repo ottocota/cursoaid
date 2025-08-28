@@ -1,2 +1,11 @@
-*Dia 4*
-
+Outros
+  Control L # Limpa o terminal
+Dia 4
+  pwd # Informa qual é o diretorio
+  ls # Lista todos documentos e sinaliza pastas e diretório
+  ls -la # Informa o detalhe dos arquivos
+  cd (nome da pasta) # Entra na pasta #. O CD pode ser feito para entrar em uma pasta dentro de outra com o comando: cd (nome da pasta)/(nome da pasta)
+  touch (nome do arquivo) # Cria um novo arquivo
+  mkdir (nome da pasta) # Cria uma pasta
+  rm -rf (nome da pasta) # Exclui uma pasta
+  cd .. # Sobe uma pasta. Se quiser subir mais de uma o comando é cd ../..
