@@ -9,3 +9,7 @@ Dia 4
   mkdir (nome da pasta) # Cria uma pasta
   rm -rf (nome da pasta) # Exclui uma pasta
   cd .. # Sobe uma pasta. Se quiser subir mais de uma o comando é cd ../..
+
+Dia 5
+  git pull origin main # atualiza o projeto com a main
+  poetry run mkdocs build # 
