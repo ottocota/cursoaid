@@ -1,9 +1,26 @@
-Quais UO irão receber o crédito orçamentário: (informar UO)
-Órgão que solicitou manifestação da Seplag: (informar UO)
-Manifestação Seplag: Favorável, favorável com ressalvas, contrária.
-A proposta versa sobre matéria afeta à área de competência de outro órgão do Estado?: Sim ou Não
-Houve manifestação de todos os órgãos afetos?: Sim ou Não
-Quais são as repercussões do problema ou da situação e que prejuízos poderão ocorrer sem a edição do ato normativo?
-Número da LOA
-Há, no texto do ato normativo proposto, algum dispositivo que verse sobre matéria afeta à área de competência de outros órgãos e entidades do Poder Executivo?
-Dotações/Valores/Origem de crédito
+INICIATIVA: Preencha como executivo, legislativo ou outro
+ÓRGÃO DE ORIGEM QUE SOLICITOU MANIFESTAÇÃO DA SEPLAG:
+MANIFESTAÇÃO SEPLAG: Preencha com favorável, favorável com ressaltas, contrária ou competência não afeta a Seplag, encaminhara para:
+ÓRGÃOS E SIGLAS: Preencha com a relação de órgãos, entidades e fundos que são afetados pelo projeto de lei
+
+Preciso que você guarde algumas informações que serão substituídas em outros textos posteriormente:
+    INICIATIVA: Preencha como executivo, legislativo ou outro
+    AUTORIA: Geralmente, é Subsecretaria de Planejamento e Orçamento / SEPLAG
+    ÓRGÃO DE ORIGEM QUE SOLICITOU MANIFESTAÇÃO DA SEPLAG:
+    IMPACTO FINANCEIRO PARA O ESTADO: Preencher com Sim ou Não
+    MANIFESTAÇÃO SEPLAG: Preencha com favorável, favorável com ressaltas, contrária ou competência não afeta a Seplag, encaminhara para:
+    ÓRGÃOS E SIGLAS: Preencha com a relação de órgãos, entidades e fundos que são afetados pelo projeto de lei
+  
+Substitua os ** pelos textos armazenados correspodentes:
+    NATUREZA DO PROJETO: Projeto de Lei de abertura de crédito suplementar ao orçamento fiscal do estado.
+    EMENTA: Projeto de Lei de abertura de crédito suplementar ao orçamento fiscal do Estado, em favor das unidades orçamentárias do **ÓRGÃOS E SIGLAS**.
+    INICIATIVA: **INICIATIVA**
+    AUTORIA: **AUTORIA**
+    ÓRGÃO DE ORIGEM QUE SOLICITOU MANIFESTAÇÃO DA SEPLAG: **ÓRGÃO DE ORIGEM QUE SOLICITOU MANIFESTAÇÃO DA SEPLAG**
+    IMPACTO FINANCEIRO PARA O ESTADO: **IMPACTO FINANCEIRO PARA O ESTADO**
+    MANIFESTAÇÃO SEPLAG: **MANIFESTAÇÃO SEPLAG**
+    PARECER/FUNDAMENTAÇÃO:
+    Lei Federal nº 4.320, de 17 de março de 1964, dispõe, em seu art. 42, que “os créditos suplementares e especiais serão autorizados por lei e abertos por decreto do Poder Executivo”. Nesse contexto, a Lei nº 25.124, de 30 de dezembro de 2024 – Lei Orçamentária Anual para o exercício vigente – autoriza a abertura de créditos suplementares aos orçamentos dos Poderes Executivo e Legislativo, mas não abrange as seguintes unidades orçamentárias: **ÓRGÃOS E SIGLAS:**. Nesses casos, a abertura de crédito suplementar somente poderá ocorrer mediante proposta legislativa específica. O detalhamento da proposta segue a seguir.
+    **LEGENDAS DOS GRÁFICOS**
+    Uma vez aprovado este Projeto de Lei, serão abertos decretos de crédito suplementar para efetivar as realocações e as suplementações propostas.
+    
