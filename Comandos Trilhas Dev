@@ -1,5 +1,9 @@
 Outros
   Control L # Limpa o terminal
+Dia 3
+  pipx install poetry # Instala o poetry
+  poetry add mkdocs # Instala o mkdocs com o poetry
+  poetry run mkdocs serve # Liga o site
 Dia 4
   pwd # Informa qual é o diretorio
   ls # Lista todos documentos e sinaliza pastas e diretório
