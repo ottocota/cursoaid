@@ -4,6 +4,7 @@ Dia 3
   pipx install poetry # Instala o poetry
   poetry add mkdocs # Instala o mkdocs com o poetry
   poetry run mkdocs serve # Liga o site
+  Control z # Desliga o servidor
 Dia 4
   pwd # Informa qual é o diretorio
   ls # Lista todos documentos e sinaliza pastas e diretório
@@ -17,3 +18,14 @@ Dia 4
 Dia 5
   git pull origin main # atualiza o projeto com a main
   poetry run mkdocs build # 
+
+Markdown
+  # Título
+  ## Subtítulo
+  ### Subítulo 2
+  **Texto em negrito**
+  *Texto em ítalico*
+  -lista
+  [texto]{URL}
+  ![texto](url)
+  `código inline`
