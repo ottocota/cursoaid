@@ -64,5 +64,6 @@ Para realizar do parecer/fundamentação
 Preencher os dados da tabela da suplementação e anulação conforme o seguinte exemplo: [Tabela Exemplo](https://cecad365.sharepoint.com/:x:/s/Splor/EUryIbXcfhFJnHe3Osyafo8BccE5pNKeXWR7nSd6wWgb5Q?e=zhcpdl)
 
 >Preciso descrever a composição das suplementações. Vou citar os textos a serem preenchidos, mas, por enquanto, quero apenas que você compreenda o padrão. A descrição das origens de crédito de realocação deve ser feita da seguinte forma: (origem do crédito) de (grupo), da fonte (informação da fonte), no valor de (valor em numeral, em reais) [(valor por extenso, em reais)]. Para outras origens, não é necessário informar o grupo. Não execute ainda; aguarde os inputs.
+Vou citar os textos da origem de crédito. Espere outras informações:
 
  
