@@ -1,10 +1,4 @@
-INICIATIVA: Preencha como executivo, legislativo ou outro
-ÓRGÃO DE ORIGEM QUE SOLICITOU MANIFESTAÇÃO DA SEPLAG:
-MANIFESTAÇÃO SEPLAG: Preencha com favorável, favorável com ressaltas, contrária ou competência não afeta a Seplag, encaminhara para:
-ÓRGÃOS E SIGLAS: Preencha com a relação de órgãos, entidades e fundos que são afetados pelo projeto de lei
-DATA: Preencha no modelo 13 de janeiro de 2025
-RESPONSAVEL PELA NOTA TECNICA: Preencher com nome e cargo entre (). Geralmente, é o superintendente
-
+Este promp armazena informações para a elaboração da nota técnica, é preciso alterar conforme orientado no prompt:
 Preciso que você guarde algumas informações que serão substituídas em outros textos posteriormente:
     INICIATIVA: Preencha como executivo, legislativo ou outro
     AUTORIA: Geralmente, é Subsecretaria de Planejamento e Orçamento / SEPLAG
@@ -12,6 +6,8 @@ Preciso que você guarde algumas informações que serão substituídas em outro
     IMPACTO FINANCEIRO PARA O ESTADO: Preencher com Sim ou Não
     MANIFESTAÇÃO SEPLAG: Preencha com favorável, favorável com ressaltas, contrária ou competência não afeta a Seplag, encaminhara para:
     ÓRGÃOS E SIGLAS: Preencha com a relação de órgãos, entidades e fundos que são afetados pelo projeto de lei
+    DATA: Preencha no modelo 13 de janeiro de 2025
+    RESPONSAVEL PELA NOTA TECNICA: Preencher com nome e cargo entre (). Geralmente, é o superintendente
   
 Substitua os ** pelos textos armazenados correspodentes:
     NATUREZA DO PROJETO: Projeto de Lei de abertura de crédito suplementar ao orçamento fiscal do estado.
