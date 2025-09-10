@@ -25,7 +25,15 @@ Essa etapa serve para introduzir parâmetros que serão utilizados na documenta�
 
 >RESPONSÁVEL PELA NOTA TECNICA: **Preencher com nome e cargo deve estar entre (). Geralmente, é o superintendente**
 
+>RESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOS: **Preencher com nome e cargo deve estar entre (). Geralmente, é o subsecretário**
+
+>RAMAL DO RESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOS: **Preencher com o ramal do responsável pela exposição de motivos**
+
+>E-MAIL DO RESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOS: **Preencher com o e-mail do responsável pela exposição de motivos**
+
 >AFETA ÁREA DE COMPETÊNCIA DE OUTRO ÓRGÃO DO ESTADO?: **Preencher com Sim ou Não**
+
+>POSICIONAMENTO: **Posicionamento dos outros órgãos que tem sua área de competência afetada. Preencher com "não se aplica" se não tiver área de competência de outro órgão**
 
 >HOUVE MANIFESTAÇÃO DE TODOS OS ÓRGÃOS AFETOS?: **Preencher com Sim ou Não**
 
@@ -190,3 +198,33 @@ xxREGRAS AFETADAS PELO ATO NORMATIVOxx
 >O crédito suplementar ao orçamento do TCE no valor total de R$182.757.788,00 atenderá despesas de pessoal, tendo como origem a anulação de dotações orçamentárias próprias de custeio e investimento, no valor de R$44.779.514,00; o saldo financeiro da receita de Recursos Diretamente Arrecadados no valor de R$95.000.000,00; o excesso de arrecadação da receita de Recursos de Contribuição Patronal para o RPPS, no valor de 18.817.178,00; e o excesso de arrecadação da receita de Recursos de Contribuições Servidor para o RPPS, no valor de R$24.161.096,00.
 
 >O detalhamento das dotações orçamentárias está disponível na Nota Técnica
+
+>6.3. A proposta atende ao disposto na Lei de Responsabilidade Fiscal (Lei Complementar nº 101, de 4 de maio de 2000)?
+
+>Sim. Segundo a LRF, a abertura de crédito suplementar necessita de autorização legislativa, o que se busca por meio do Projeto de Lei, e indicação dos recursos correspondentes, o que consta dos documentos do processo.
+
+>6.4. Quais serão as providências administrativas decorrentes da proposta?
+
+>Publicação de Decreto regulamentando a abertura do crédito suplementar em consonância com a Lei decorrente do presente Projeto de Lei.
+
+>6.5. Qual órgão e unidade ficará responsável pela execução ou fiscalização do cumprimento das medidas administrativas propostas no ato normativo?
+
+>Execução: Unidades orçamentárias do xxÓrgão e Siglasxx
+
+>Fiscalização: Unidades de controle interno e externo responsáveis pela fiscalização da(s) unidade(s) orçamentárias(s) do xxÓrgãos e Siglasxx
+
+7 INTERSETORIALIDADE
+
+7.1. Há, no texto do ato normativo proposto, algum dispositivo que verse sobre matéria afeta à área de competência de outros órgãos e entidades do Poder Executivo?
+xxAFETA ÁREA DE COMPETÊNCIA DE OUTRO ÓRGÃO DO ESTADO?xx
+
+7.2. Qual é o posicionamento destes órgãos quanto à proposta?
+xxPOSICIONAMENTOxx
+
+8 CONSIDERAÇÕES FINAIS
+
+>Responsável técnico pela proposta: xxRESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOSxx
+
+>Ramal: xxRAMAL DO RESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOSxx
+
+>E-mail: xxE-MAIL DO RESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOSxx
