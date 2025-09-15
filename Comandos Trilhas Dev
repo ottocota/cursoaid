@@ -19,11 +19,15 @@ Dia 5
   git pull origin main # atualiza o projeto com a main
   poetry run mkdocs build # 
 
+Dia 6
+  git checkout -b "nome da nova branch" # abre nova branch
+
 Markdown
+Marcar o nome do arquivo com .md para ser markdown
   # Título
   ## Subtítulo
   ### Subítulo 2
-  **Texto em negrito**
+  **Texto em negrito**  
   *Texto em ítalico*
   -lista
   [texto]{URL}
