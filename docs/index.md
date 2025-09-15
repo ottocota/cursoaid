@@ -3,6 +3,11 @@ Os projetos de lei de abertura de crédito suplementar são utilizados quando o 
 O primeiro passo é criar um processo e vinculá-lo ao processo de solicitação do órgão, caso este exista.
 O processo será composto por 6 documentos: Nota Técnica de Projeto de Lei, Exposição de Motivos de Ato Normativo, Memorando, Ofício, Proposição de Lei e Mensagem do Governador
 
+## Criar um processo 
+Criar um processo do tipo "Execuções Física e Orçamentária: Processo de Alteração Orçamentária"
+Colocar como restrito com a hipótese legal de documento preparatório
+
+
 ## Estabelecimento de Parâmetros
 Essa etapa serve para introduzir parâmetros que serão utilizados na documentação. Você deve utilizar o seguinte prompt substituindo os textos em negrito conforme descrito em cada item:
 
@@ -21,7 +26,7 @@ Essa etapa serve para introduzir parâmetros que serão utilizados na documenta�
 
 >ÓRGÃOS E SIGLAS: **Preencha com a relação de órgãos, entidades e fundos que são afetados pelo projeto de lei. Siga o padrão: nome completo (sigla)**
 
->DATA: **Preencha com base no modelo exemplo 13 de janeiro de 2025**
+>DATA ATUAL: **Preencha com base no modelo exemplo 13 de janeiro de 2025**
 
 >RESPONSÁVEL PELA NOTA TECNICA: **Preencher com nome e cargo deve estar entre (). Geralmente, é o superintendente**
 
@@ -30,6 +35,14 @@ Essa etapa serve para introduzir parâmetros que serão utilizados na documenta�
 >RAMAL DO RESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOS: **Preencher com o ramal do responsável pela exposição de motivos**
 
 >E-MAIL DO RESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOS: **Preencher com o e-mail do responsável pela exposição de motivos**
+
+>ASSESSOR-CHEFE DA AJA: **Prencher com o nome do assessor-chefe da AJA (Assessoria Jurídico-Administrativa), essa informação pode ser obtida no quem é quem da Seplag**
+
+>SECRETÁRIO DE ESTADO DE GOVERNO: **Preencher com o nome do secretário de estado de governo**
+
+>NOME DO GOVERNADOR: **Preencher com nome completo do governador**
+
+>NOME DO PRESIDENTE DA ALMG: **Prencher com nome completo do presidente da assembleia**
 
 >AFETA ÁREA DE COMPETÊNCIA DE OUTRO ÓRGÃO DO ESTADO?: **Preencher com Sim ou Não**
 
@@ -41,7 +54,7 @@ Essa etapa serve para introduzir parâmetros que serão utilizados na documenta�
 
 >REPERCUSSÕES E PREJUÍZOS QUE PODERÃO OCORRER SEM A EDIÇÃO DO ATO NORMATIVO? **Exemplos de preenchimento: Insuficiência de crédito orçamentário nas ações do TCEMG para acobertar despesas com Pessoal e Encargos Sociais do Órgão ou Necessidade de adequar despesas pertencentes aos grupos de Pessoal, Outras Despesas Correntes, Investimento e Inversões Financeiras nas unidades orçamentárias do Órgão**
 
->CATEGORIA DE DESPESA: **Preencher com Corrente ou Capital**
+>CATEGORIA DE DESPESA: **Preencher com Corrente e/ou Capital**
 
 >ORIGEM DOS RECURSOS: **Preencher com o remanejamento de recursos ordinários, saldos financeiros de arrecadação da receita de recursos próprios, o excesso de arrecadação e/ou outros.**
 
@@ -119,7 +132,7 @@ Vou citar os textos da origem de crédito. Espere outras informações:
 |43|Contribuição do Servidor para o RPPS|
 |60|Recursos Diretamente Arrecadados|
 
->O valor, se a origem de crédito for realocação, deve corresponder ao valor da anulação. Se a origem de crédito for outra, deve corresponder ao valor da suplementação. Linhas que apresentarem origem de crédito, grupo e fonte iguais devem ser somadas. Aguarde outras informações antes de executar.
+>O valor, se a origem de crédito for realocação, deve corresponder ao valor da anulação. Se a origem de crédito for outra, deve corresponder ao valor da suplementação. Linhas que apresentarem origem de crédito, grupo e fonte iguais devem, obrigatoriamente, ser somadas. Aguarde outras informações antes de executar.
 
 >Segue um exemplo sobre como deve ser feito: “Anulação de dotação orçamentária de Outras Despesas Correntes, da fonte Recursos Ordinários - Recursos não Vinculados de Impostos no valor de R$20.000.000,00 (vinte milhões de reais)”. Agora, faça conforme o exemplo e os parâmetros informados:
 
@@ -156,7 +169,7 @@ Para elaborar o texto da exposição de motivos, insira este prompt na IA:
 
 >3.4. Quem são os destinatários do ato normativo proposto?
  
->Unidade orçamentária do xxÓrgãos e Siglasxx
+>Unidade(s) orçamentária(s) do xxÓrgãos e Siglasxx
 
 >4 OBJETIVOS
 
@@ -179,7 +192,8 @@ Para elaborar o texto da exposição de motivos, insira este prompt na IA:
 >xxNúmero da LOAxx
 
 >5.2. Quais regras já existentes serão afetadas pelo ato normativo proposto (leis, decretos, resoluções, instruções normativas, portarias e etc.)?
-xxREGRAS AFETADAS PELO ATO NORMATIVOxx
+
+>xxREGRAS AFETADAS PELO ATO NORMATIVOxx
 
 >5.3. Há projetos de lei em tramitação na ALMG com conteúdo atinente à matéria? Especifique.
 
@@ -193,9 +207,9 @@ xxREGRAS AFETADAS PELO ATO NORMATIVOxx
 
 >6.2. Qual é o impacto financeiro? Cite a dotação orçamentária para a execução das medidas propostas.
 
->Preencher um parágrafo para cada quadro com a estrutura deste exemplo:
+>xxPreencher um parágrafo para cada quadro com a estrutura deste exemploxx:
 
->O crédito suplementar ao orçamento do TCE no valor total de R$182.757.788,00 atenderá despesas de pessoal, tendo como origem a anulação de dotações orçamentárias próprias de custeio e investimento, no valor de R$44.779.514,00; o saldo financeiro da receita de Recursos Diretamente Arrecadados no valor de R$95.000.000,00; o excesso de arrecadação da receita de Recursos de Contribuição Patronal para o RPPS, no valor de 18.817.178,00; e o excesso de arrecadação da receita de Recursos de Contribuições Servidor para o RPPS, no valor de R$24.161.096,00.
+>xxO crédito suplementar ao orçamento do TCE no valor total de R$182.757.788,00 atenderá despesas de pessoal, tendo como origem a anulação de dotações orçamentárias próprias de custeio e investimento, no valor de R$44.779.514,00; o saldo financeiro da receita de Recursos Diretamente Arrecadados no valor de R$95.000.000,00; o excesso de arrecadação da receita de Recursos de Contribuição Patronal para o RPPS, no valor de 18.817.178,00; e o excesso de arrecadação da receita de Recursos de Contribuições Servidor para o RPPS, no valor de R$24.161.096,00.xx
 
 >O detalhamento das dotações orçamentárias está disponível na Nota Técnica
 
@@ -213,18 +227,69 @@ xxREGRAS AFETADAS PELO ATO NORMATIVOxx
 
 >Fiscalização: Unidades de controle interno e externo responsáveis pela fiscalização da(s) unidade(s) orçamentárias(s) do xxÓrgãos e Siglasxx
 
-7 INTERSETORIALIDADE
+>7 INTERSETORIALIDADE
 
-7.1. Há, no texto do ato normativo proposto, algum dispositivo que verse sobre matéria afeta à área de competência de outros órgãos e entidades do Poder Executivo?
+>7.1. Há, no texto do ato normativo proposto, algum dispositivo que verse sobre matéria afeta à área de competência de outros órgãos e entidades do Poder Executivo?
 xxAFETA ÁREA DE COMPETÊNCIA DE OUTRO ÓRGÃO DO ESTADO?xx
 
-7.2. Qual é o posicionamento destes órgãos quanto à proposta?
+>7.2. Qual é o posicionamento destes órgãos quanto à proposta?
 xxPOSICIONAMENTOxx
 
-8 CONSIDERAÇÕES FINAIS
+>8 CONSIDERAÇÕES FINAIS
 
 >Responsável técnico pela proposta: xxRESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOSxx
 
 >Ramal: xxRAMAL DO RESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOSxx
 
 >E-mail: xxE-MAIL DO RESPONSÁVEL PELA EXPOSIÇÃO DE MOTIVOSxx
+
+##Memorando
+
+O memorando deve ser destinado para o Assessor-Chefe da Assessoria Jurídico-Administrativa (AJA/SEPLAG). Essa informação pode ser obtida no site da Seplag. Para elaborar o texto da nota técnica, insira este prompt na IA:
+
+>Substitua os xx pelos textos armazenados correspodentes:
+
+>Para: xxASSESSOR-CHEFE DA AJAxx
+
+>Assessora-Chefe AJA/SEPLAG 
+
+>Assunto: Consulta Jurídica de Projeto de Lei de Abertura de crédito suplementar
+
+>Senhora Assessora-Chefe,
+
+>Encaminho para análise os documentos necessários à tramitação do Projeto de Lei de abertura de crédito suplementar ao orçamento fiscal do estado em favor da(s) unidade(s) orçamentária(s) do xxÓrgãos e Siglasxx.
+
+>Atenciosamente,
+
+##Ofício
+
+>Sr. 
+
+>xxSecretário de Estado de Governoxx
+
+>Secretário de Estado de Governo
+
+>Assunto: Projeto de Lei de abertura de crédito suplementar ao orçamento fiscal do estado em favor da(s) unidade(s) orçamentária(s) xxÓrgãos e Siglasxx.
+
+>Senhor Secretário, 
+
+>Encaminho os documentos necessários à tramitação do Projeto de Lei de abertura de crédito suplementar ao orçamento fiscal do estado em favor da(s) unidade(s) orçamentária(s) do xxÓrgãos e Siglasxx.
+
+>Atenciosamente,
+
+##Projeto de Lei
+
+Agora preciso que você
+
+##Mensagem do Governador
+
+Altere este documento modelo com base nas informações anteriores
+
+##Escreva o projeto de lei a partir deste modelo com as informações enviadas.
+ (INSERIR LINK DO PL)
+
+#A FAZERES
+Mudar o máximo para modelos
+Conferir a classificação de capital e custeio
+Estruturar o site
+Fazer testes
