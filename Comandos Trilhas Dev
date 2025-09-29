@@ -30,6 +30,6 @@ Marcar o nome do arquivo com .md para ser markdown
   **Texto em negrito**  
   *Texto em ítalico*
   -lista
-  [texto]{URL}
+  [texto](url)
   ![texto](url)
   `código inline`
