@@ -1,25 +1,27 @@
-# Elaboração de Projeto de Lei de Abertura de Crédito Suplementar
+# Elaboração de Projeto de Lei para Abertura de Crédito Suplementar
 
-Os projetos de lei de abertura de crédito suplementar são utilizados quando a edição de decreto do Poder Executivo não é suficiente para autorizar a suplementação, exigindo-se, portanto, a aprovação de uma proposta legislativa específica. O primeiro passo consiste na criação de um processo no SEI, que deve ser vinculado ao processo de solicitação do órgão, caso este já exista. Esse processo será instruído com seis documentos: Nota Técnica de Projeto de Lei, Exposição de Motivos do Ato Normativo, Memorando, Ofício, Proposição de Lei e Mensagem do Governador.
+Os projetos de lei para abertura de crédito suplementar são utilizados quando a edição de decreto do Poder Executivo não é suficiente para autorizar a suplementação, exigindo-se, portanto, a aprovação de uma proposta legislativa específica. O primeiro passo consiste na criação de um processo no SEI, que deve ser vinculado ao processo de solicitação do órgão, caso este já exista. 
 
-A inteligência artificial a ser utilizada é o Deepseek com a funcionalidade Deepthink ativada
+No processo SEI recém criado, serão instruídos seis documentos: Nota Técnica de Projeto de Lei, Exposição de Motivos do Ato Normativo, Memorando, Ofício, Proposição de Lei e Mensagem do Governador.
 
-## Criar um processo 
+Esse site elenca uma serie de prompts de IA para a criação desses documentos. A inteligência artificial a ser utilizada é o [Deepseek](https://chat.deepseek.com/) com a funcionalidade Deepthink ativada
 
-Criar um processo do tipo "Execuções Física e Orçamentária: Processo de Alteração Orçamentária"
+## Criação do processo SEI
 
-Colocar como restrito com a hipótese legal de documento preparatório
+Criar um processo do tipo "Execuções Física e Orçamentária: Processo de Alteração Orçamentária".
+
+Colocar como restrito com a hipótese legal de documento preparatório.
 
 
 ## Estabelecimento de Parâmetros
 
 Essa etapa serve para introduzir parâmetros que serão utilizados na documentação. 
 
-Você preencher o seguinte [formulário](https://cecad365.sharepoint.com/:w:/s/Splor/EdZiXcr0I45JnksfdWVNw-kBAx3d5oH4UYmiX98RmW6FFg?e=aafEv6)
+É necessário preencher o seguinte [formulário](https://cecad365.sharepoint.com/:w:/s/Splor/EdZiXcr0I45JnksfdWVNw-kBAx3d5oH4UYmiX98RmW6FFg?e=aafEv6).
 
 ## Nota Técnica de Projeto de Lei
 
-Para montar a nota técnica, você precisa ter os dados das suplementações e, se houver, das anulações organizados em uma tabela nesse [formato](https://cecad365.sharepoint.com/:x:/s/Splor/EasrCiDLgcJCrfFLfBL-UUcBOZYDMV6W9tmgGHiCUtEDbQ?e=lPlRxh). Normalmente, essas informações são enviadas pelo órgão que fez a solicitação.
+Para elaborar a nota técnica, é necessário ter as informações das suplementações e, se houver, das anulações organizadas em uma tabela nesse [formato](https://cecad365.sharepoint.com/:x:/s/Splor). Normalmente, essas informações são enviadas pelo órgão que fez a solicitação.
 
 A nota técnica é feita em duas partes: o texto e os comentários da tabela.
 
@@ -27,10 +29,10 @@ A nota técnica é feita em duas partes: o texto e os comentários da tabela.
 
 Para elaborar o texto da nota técnica, insira este [arquivo](https://cecad365.sharepoint.com/:w:/s/Splor/EfFr3Srd6JZJoCpvpAQJmaQBEc44fzQCvu5HptjaIt0mTA?e=ToWNWQ) com o seguinte prompt:
 
-Substitua os xx pelos textos armazenados correspondentes:
+>Substitua os xx pelos textos armazenados correspondentes:
 
-### Comentários das Tabelas
-Os comentários das tabelas serão inseridos na parte assinalada como xxCOMENTÁRIOS DAS TABELASxx. Deve ser feito um quadro por unidade orçamentária. As informações para o preenchimento do quadro são enviadas pelos órgãos. O quadro deve ter o seguinte formato: [Quadro Exemplo](https://cecad365.sharepoint.com/:x:/s/Splor/EUryIbXcfhFJnHe3Osyafo8BccE5pNKeXWR7nSd6wWgb5Q?e=zhcpdl).
+### Descrições das Tabelas
+As descrições das tabelas serão inseridas na parte assinalada como xxCOMENTÁRIOS DAS TABELASxx. Deve ser feito um quadro por unidade orçamentária. As informações para o preenchimento do quadro são enviadas pelos órgãos. O quadro deve ter o seguinte formato: [Quadro Exemplo](https://cecad365.sharepoint.com/:x:/s/Splor/EUryIbXcfhFJnHe3Osyafo8BccE5pNKeXWR7nSd6wWgb5Q?e=zhcpdl).
 
 Após preencher a tabela, insira-a na IA e utilize o seguinte prompt:
 
@@ -63,6 +65,7 @@ Vou citar os textos da origem de crédito. Espere outras informações:
 |10|Recursos Ordinários - Recursos não Vinculados de Impostos|
 |42|Contribuição Patronal para o RPPS|
 |43|Contribuição do Servidor para o RPPS|
+|59|Outros Recursos Vinculados|
 |60|Recursos Diretamente Arrecadados|
 
 >O valor, se a origem de crédito for realocação, deve corresponder ao valor da anulação. Se a origem de crédito for outra, deve corresponder ao valor da suplementação. Linhas que apresentarem origem de crédito, grupo e fonte iguais devem, obrigatoriamente, ser somadas. Aguarde outras informações antes de executar.
@@ -72,29 +75,42 @@ Vou citar os textos da origem de crédito. Espere outras informações:
 ##Exposição de Motivos
 Para elaborar o texto da exposição de motivos, basta inserir este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B06B96B58-3471-48F1-A916-8B10D5F0CA9B%7D&file=Modelo%20-%20Exposi%C3%A7%C3%A3o%20de%20Motivos.docx&action=default&mobileredirect=true) e o seguinte prompt na IA:
 
-Substitua os xx pelos textos armazenados correspondentes:
+>Substitua os xx pelos textos armazenados correspondentes:
 
 ##Memorando
 
-O memorando deve ser destinado para o Assessor-Chefe da Assessoria Jurídico-Administrativa (AJA/SEPLAG). Essa informação pode ser obtida no site da Seplag. Para elaborar o texto do memorando, insira este [arquivo](https://cecad365.sharepoint.com/:w:/s/Splor/EXKTJei8YJtCqKT3KDuXywQBJZz4a5Xp2333JYHd9nGvzA?e=ef9uR4) com o seguinte prompt na IA:
+O memorando deve ser destinado para o Assessor-Chefe da Assessoria Jurídico-Administrativa (AJA/SEPLAG). Essa informação pode ser obtida no site da Seplag. 
+
+Para elaborar o texto do memorando, insira este [arquivo](https://cecad365.sharepoint.com/:w:/s/Splor/EXKTJei8YJtCqKT3KDuXywQBJZz4a5Xp2333JYHd9nGvzA?e=ef9uR4) com o seguinte prompt na IA:
+
+>Substitua os xx pelos textos armazenados correspondentes:
 
 ##Ofício
 
 Para elaborar o texto do ofício, insira este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B5EE5B907-5BC7-40CA-82F2-EF628ECD215D%7D&file=Modelo%20-%20Of%C3%ADcio.docx&action=default&mobileredirect=true) com o seguinte prompt na IA:
 
+>Substitua os xx pelos textos armazenados correspondentes:
+
 ##Projeto de Lei
 
-Agora preciso que você estruture os dados da tabela em um projeto de lei similar a este:
+Para elaborar o projeto de lei, insira este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B5DD92CA2-5D7F-4BB8-AAFD-9135C459135E%7D&file=Modelo%20de%20Projeto%20de%20lei.docx&action=default&mobileredirect=true) com o seguinte prompt na IA:
+
+>Preciso que você estruture os dados da tabela em um projeto de lei similar a este:
 
 ##Mensagem do Governador
 
-Altere este documento modelo com base nas informações anteriores
+Para elaborar o projeto de lei, insira este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B2F148E45-347E-4452-B9C3-A6DE74BA6CB5%7D&file=Modelo%20de%20Mensagem%20do%20Governador.docx&action=default&mobileredirect=true) com o seguinte prompt na IA:
 
-##Escreva o projeto de lei a partir deste modelo com as informações enviadas.
- (INSERIR LINK DO PL)
+>Altere este documento modelo com base nas informações anteriores
 
 #A FAZERES
+
 Mudar o máximo para modelos
+
 Conferir a classificação de capital e custeio
+
 Estruturar o site
+
 Fazer testes
+
+Preambulo
