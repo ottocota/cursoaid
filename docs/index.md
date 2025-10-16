@@ -1,6 +1,6 @@
 # Elaboração de Projeto de Lei para Abertura de Crédito Suplementar
 
-Os projetos de lei para abertura de crédito suplementar são utilizados quando a edição de decreto do Poder Executivo não é suficiente para autorizar a suplementação, exigindo-se, portanto, a aprovação de uma proposta legislativa específica. O primeiro passo consiste na criação de um processo no SEI, que deve ser vinculado ao processo de solicitação do órgão, caso este já exista. 
+Os projetos de lei para abertura de crédito suplementar são utilizados quando a edição de decreto do Poder Executivo não é suficiente para autorizar a suplementação, exigindo-se, portanto, a aprovação de uma proposta legislativa específica. O primeiro passo consiste na criação de um processo no SEI, que deve ser vinculado ao processo de solicitação do órgão, caso este já exista.
 
 No processo SEI recém criado, serão instruídos seis documentos: Nota Técnica de Projeto de Lei, Exposição de Motivos do Ato Normativo, Memorando, Ofício, Proposição de Lei e Mensagem do Governador.
 

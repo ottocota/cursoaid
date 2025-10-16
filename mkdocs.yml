@@ -5,3 +5,9 @@ theme:
   palette:
     primary: black
     accent: red
+
+  features:
+    - toc.integrate
+  hide:
+    - navigation
+ 
