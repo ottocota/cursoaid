@@ -114,7 +114,7 @@ Para elaborar o projeto de lei, insira este [arquivo](https://cecad365.sharepoin
 
 Para elaborar o projeto de lei, insira este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B2F148E45-347E-4452-B9C3-A6DE74BA6CB5%7D&file=Modelo%20de%20Mensagem%20do%20Governador.docx&action=default&mobileredirect=true) com o seguinte prompt na IA:
 
->Altere este documento modelo com base nas informações anteriores. Não mude nada que não estiver entre xx e trate cada órgão como independente
+>Altere este documento modelo com base nas informações anteriores. Não mude nada que não estiver entre xx e trate cada órgão como independente.
 
 #A FAZERES
 
