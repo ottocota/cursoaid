@@ -109,6 +109,13 @@ Para elaborar o texto do ofício, insira este [arquivo](https://cecad365.sharepo
 Para elaborar o projeto de lei, insira este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B5DD92CA2-5D7F-4BB8-AAFD-9135C459135E%7D&file=Modelo%20de%20Projeto%20de%20lei.docx&action=default&mobileredirect=true) com o seguinte prompt na IA:
 
 >Preciso que você estruture os dados da(s) tabela(s) em um projeto de lei similar a este:
+Desconsidere qualquer conhecimento prévio sobre o orçamento brasileiro e siga apenas as orientações fornecidas. Considere valores em branco como zero (0).
+O projeto de lei deve conter dois artigos para cada unidade orçamentária:
+O primeiro artigo de cada unidade orçamentária apresenta os valores das suplementações, e seus incisos demonstram a divisão por grupo. Primeiro, é apresentado o valor global e, depois, a divisão por grupos nos incisos conforme exemplo anexo. Nesse caso, as realocações devem utilizar o valor da suplementação. Para outras origens de crédito, também deve ser usado o valor da suplementação.
+O segundo artigo de cada unidade orçamentária descreve a origem dos recursos. No caso das realocações, é o valor da anulação seguido do texto: da anulação de dotação orçamentária de (grupo), da (fonte), no valor de (valor em numeral, em reais) [(valor por extenso, em reais)]. Para outras origens, use o padrão (origem de crédito) de (fonte), no valor de (valor em numeral, em reais) (valor por extenso, em reais).
+Os últimos dois artigos são:
+Art. x A aplicação desta Lei observará o disposto no art. 169 da Constituição da República e as normas pertinentes da Lei Complementar federal nº 101, de 4 de maio de 2000.
+Art. x Esta Lei entra em vigor na data de sua publicação.
 
 ##Mensagem do Governador
 
