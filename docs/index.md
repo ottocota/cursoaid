@@ -4,9 +4,9 @@ Os projetos de lei para abertura de crédito suplementar são utilizados quando 
 
 No processo SEI recém criado, serão instruídos seis documentos: Nota Técnica de Projeto de Lei, Exposição de Motivos do Ato Normativo, Memorando, Ofício, Proposição de Lei e Mensagem do Governador.
 
-Este site elenca uma serie de prompts de IA para a criação desses documentos. A inteligência artificial a ser utilizada é o [Copilot](https://m365.cloud.microsoft/chat/?auth=2&home=1) com a funcionalidade GPT-5 ativada
+Este site elenca uma serie de prompts de IA para a criação desses documentos. A inteligência artificial a ser utilizada é o [Copilot](https://m365.cloud.microsoft/chat/?auth=2&home=1) com a funcionalidade GPT-5 ativada.
 
-## Criação do processo SEI
+## Criação do Processo SEI
 
 Criar um processo do tipo "Execuções Física e Orçamentária: Processo de Alteração Orçamentária".
 
@@ -93,7 +93,7 @@ Para elaborar o texto da exposição de motivos, basta inserir este [arquivo](ht
 
 ##Memorando
 
-O memorando deve ser destinado para o Assessor-Chefe da Assessoria Jurídico-Administrativa (AJA/SEPLAG). Essa informação pode ser obtida no site da Seplag. 
+O memorando deve ser destinado ao Assessor-Chefe da Assessoria Jurídico-Administrativa (AJA/SEPLAG). Essa informação pode ser obtida no site da Seplag. 
 
 Para elaborar o texto do memorando, insira este [arquivo](https://cecad365.sharepoint.com/:w:/s/Splor/EXKTJei8YJtCqKT3KDuXywQBJZz4a5Xp2333JYHd9nGvzA?e=ef9uR4) com o seguinte prompt na IA:
 
@@ -113,7 +113,7 @@ Para elaborar o projeto de lei, insira este [arquivo](https://cecad365.sharepoin
 Desconsidere qualquer conhecimento prévio sobre o orçamento brasileiro e siga apenas as orientações fornecidas. Considere valores em branco como zero (0).
 O projeto de lei deve conter dois artigos para cada unidade orçamentária:
 O primeiro artigo de cada unidade orçamentária apresenta os valores das suplementações, e seus incisos demonstram a divisão por grupo. O caput apresenta o valor global e, depois, a divisão por grupos nos incisos conforme exemplo anexo. Nesse caso, as realocações devem utilizar o valor da suplementação. Para outras origens de crédito, também deve ser usado o valor da suplementação.
-O segundo artigo de cada unidade orçamentária descreve a origem dos recursos. No caso das realocações, é o valor da anulação seguido do texto: da anulação de dotação orçamentária de (grupo), da (fonte), no valor de (valor em numeral, em reais) [(valor por extenso, em reais)]. Para outras origens, use o padrão (origem de crédito) de (fonte), no valor de (valor em numeral, em reais) (valor por extenso, em reais).
+O segundo artigo de cada unidade orçamentária descreve a origem dos recursos. No caso das realocações, é o valor da anulação seguido do texto: da anulação de dotação orçamentária de (grupo), de (fonte), no valor de (valor em numeral, em reais) [(valor por extenso, em reais)]. Para outras origens, use o padrão (origem de crédito) de (fonte), no valor de (valor em numeral, em reais) (valor por extenso, em reais).
 Os últimos dois artigos são:
 Art. x A aplicação desta Lei observará o disposto no art. 169 da Constituição da República e as normas pertinentes da Lei Complementar federal nº 101, de 4 de maio de 2000.
 Art. x Esta Lei entra em vigor na data de sua publicação.
@@ -125,8 +125,14 @@ Para elaborar o projeto de lei, insira este [arquivo](https://cecad365.sharepoin
 
 >Altere este documento modelo com base nas informações anteriores. Não mude nada que não estiver entre xx e trate cada órgão como independente.
 
-#A FAZERES
+##Processos Concluídos
 
-Colocar mais fontes?
+Para uso como referência de formatação, segue uma lista de processos anteriores:
 
-Fazer testes
+1500.01.0499446/2024-32
+
+1500.01.0309716/2024-75
+
+1500.01.0258741/2025-64
+
+1500.01.0294921/2025-91	
