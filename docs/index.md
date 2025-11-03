@@ -41,7 +41,7 @@ Após preencher a tabela, insira-a na IA e utilize o seguinte prompt:
 
 >Desconsidere todo seu conhecimento em orçamento brasileiro. Utilize apenas as orientações enviadas. Interprete vazio como 0.
 
->Depois, descrever a composição das suplementações. Vou citar os textos a serem preenchidos, mas, por enquanto, quero apenas que você compreenda o padrão. A descrição das origens de crédito de realocação deve ser feita da seguinte forma: (origem do crédito) de (grupo), da fonte (informação da fonte), no valor de (valor em numeral, em reais) [(valor por extenso, em reais)]. Para outras origens, use o padrão (origem de crédito) de (fonte), no valor de (valor em numeral, em reais)[(valor por extenso, em reais)]. Não execute ainda; aguarde os inputs.
+>Depois, descrever a composição das suplementações. Vou citar os textos a serem preenchidos, mas, por enquanto, quero apenas que você compreenda o padrão. A descrição das origens de crédito de realocação deve ser feita da seguinte forma: (origem do crédito) de (grupo), de fonte (informação da fonte), no valor de (valor em numeral, em reais) [(valor por extenso, em reais)]. Para outras origens, use o padrão (origem de crédito) de (fonte), no valor de (valor em numeral, em reais)[(valor por extenso, em reais)]. Não execute ainda; aguarde os inputs.
 Vou citar os textos da origem de crédito. Espere outras informações:
 
 | Origem de Crédito    | Texto |
