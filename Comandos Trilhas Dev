@@ -1,7 +1,7 @@
 Outros
   Control L # Limpa o terminal
 Dia 3
-  pipx install poetry # Instala o poetry
+  pip install poetry # Instala o poetry
   poetry add mkdocs # Instala o mkdocs com o poetry
   poetry run mkdocs serve # Liga o site
   Control z # Desliga o servidor
