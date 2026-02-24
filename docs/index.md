@@ -106,15 +106,15 @@ Para elaborar o texto do memorando, insira este [arquivo](https://cecad365.share
 
 >Substitua os xx pelos textos armazenados correspondentes, não altere o restante do texto e não entregue o resultado como um arquivo externo. Atente-se para o plural com base no número estabelecido no parâmetro "Órgãos e Siglas"
 
-##Ofício
+##Minuta de Ofício
 
 Para elaborar o texto do ofício, insira este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B5EE5B907-5BC7-40CA-82F2-EF628ECD215D%7D&file=Modelo%20-%20Of%C3%ADcio.docx&action=default&mobileredirect=true) com o seguinte prompt na IA:
 
 >Substitua os xx pelos textos armazenados correspondentes, não altere o restante do texto e não entregue o resultado como um arquivo externo. Atente-se para o plural com base no número estabelecido no parâmetro "Órgãos e Siglas"
 
-##Preposição de Lei
+##Minuta de Proposição de Lei
 
-Para elaborar o projeto de lei, insira este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B5DD92CA2-5D7F-4BB8-AAFD-9135C459135E%7D&file=Modelo%20de%20Projeto%20de%20lei.docx&action=default&mobileredirect=true) com o seguinte prompt na IA:
+Para elaborar a proposição de lei, insira este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B5DD92CA2-5D7F-4BB8-AAFD-9135C459135E%7D&file=Modelo%20de%20Projeto%20de%20lei.docx&action=default&mobileredirect=true) com o seguinte prompt na IA:
 
 >Preciso que você estruture os dados da(s) tabela(s) em um projeto de lei similar a este:
 Desconsidere qualquer conhecimento prévio sobre o orçamento brasileiro e siga apenas as orientações fornecidas. Considere valores em branco como zero (0).
