@@ -2,7 +2,9 @@
 
 Os projetos de lei para abertura de crédito suplementar são utilizados quando a edição de decreto do Poder Executivo não é suficiente para autorizar a suplementação, exigindo-se, portanto, a aprovação de uma proposta legislativa específica. O primeiro passo consiste na criação de um processo no SEI, que deve ser vinculado ao processo de solicitação do órgão, caso este já exista.
 
-No processo SEI recém criado, serão instruídos seis documentos: Nota Técnica de Projeto de Lei, Exposição de Motivos do Ato Normativo, Memorando, Ofício, Proposição de Lei e Mensagem do Governador.
+A vinculação é feita por meio da função "Relacionamentos do Processo" na aba superior do processo.
+
+No processo SEI recém-criado, serão instruídos seis documentos, sendo que a Nota Técnica do Projeto de Lei, a Exposição de Motivos do Ato Normativo, o Memorando e a Minuta de Ofício serão instruídos como documentos SEI, enquanto a Minuta de Proposição de Lei e a Minuta de Mensagem do Governador serão anexadas ao processo em formato Word.
 
 Este site elenca uma serie de prompts de IA para a criação desses documentos. A inteligência artificial a ser utilizada é o [Copilot](https://m365.cloud.microsoft/chat/?auth=2&home=1) com a funcionalidade GPT-5 ativada.
 
@@ -30,7 +32,7 @@ A nota técnica é feita em duas partes: o texto e os comentários da tabela.
 
 Para elaborar o texto da nota técnica, insira este [arquivo](https://cecad365.sharepoint.com/:w:/s/Splor/EfFr3Srd6JZJoCpvpAQJmaQBEc44fzQCvu5HptjaIt0mTA?e=ToWNWQ) com o seguinte prompt:
 
->Substitua os xx pelos textos armazenados correspondentes e não altere o restante do texto. Não altere o campo xxCOMENTÁRIOS DAS TABELASxx. Não entregue o resultado como um arquivo.
+>Substitua os xx pelos textos armazenados correspondentes e não altere o restante do texto. Não altere o campo xxCOMENTÁRIOS DAS TABELASxx. Não entregue o resultado como um arquivo. Atente-se para o plural com base no número estabelecido no parâmetro "Órgãos e Siglas"
 
 ### Descrições das Tabelas
 As descrições das tabelas devem ser inseridas na parte assinalada como xxCOMENTÁRIOS DAS TABELASxx. Deve ser feita uma tabela por unidade orçamentária. As informações para o preenchimento são enviadas pelos órgãos. A tabela deve ter o seguinte formato: [Tabela Exemplo](https://cecad365.sharepoint.com/:x:/s/Splor/EUryIbXcfhFJnHe3Osyafo8BccE5pNKeXWR7nSd6wWgb5Q?e=zhcpdl).
@@ -71,6 +73,7 @@ Vou citar os textos da origem de crédito. Espere outras informações:
 |43|Contribuição do Servidor para o RPPS|
 |59|Outros Recursos Vinculados|
 |60|Recursos Diretamente Arrecadados|
+|70|Convênios com os Municípios|
 
 >O valor, se a origem de crédito for realocação, deve corresponder ao valor da anulação. Se a origem de crédito for outra, deve corresponder ao valor da suplementação. 
 
@@ -83,7 +86,7 @@ Vou citar os textos da origem de crédito. Espere outras informações:
 ##Exposição de Motivos
 Para elaborar o texto da exposição de motivos, basta inserir este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B06B96B58-3471-48F1-A916-8B10D5F0CA9B%7D&file=Modelo%20-%20Exposi%C3%A7%C3%A3o%20de%20Motivos.docx&action=default&mobileredirect=true) e o seguinte prompt na IA:
 
->Substitua os xx pelos textos armazenados nos parâmetros, não altere o restante do texto e não entregue o resultado como um arquivo externo.
+>Substitua os xx pelos textos armazenados nos parâmetros, não altere o restante do texto e não entregue o resultado como um arquivo externo. Atente-se para o plural com base no número estabelecido no parâmetro "Órgãos e Siglas".
 
 >Para o item 6.2, siga esse padrão e faça um parágrafo por unidade orçamentária:
 
@@ -97,13 +100,13 @@ O memorando deve ser destinado ao Assessor-Chefe da Assessoria Jurídico-Adminis
 
 Para elaborar o texto do memorando, insira este [arquivo](https://cecad365.sharepoint.com/:w:/s/Splor/EXKTJei8YJtCqKT3KDuXywQBJZz4a5Xp2333JYHd9nGvzA?e=ef9uR4) com o seguinte prompt na IA:
 
->Substitua os xx pelos textos armazenados correspondentes, não altere o restante do texto e não entregue o resultado como um arquivo externo.
+>Substitua os xx pelos textos armazenados correspondentes, não altere o restante do texto e não entregue o resultado como um arquivo externo. Atente-se para o plural com base no número estabelecido no parâmetro "Órgãos e Siglas"
 
 ##Ofício
 
 Para elaborar o texto do ofício, insira este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B5EE5B907-5BC7-40CA-82F2-EF628ECD215D%7D&file=Modelo%20-%20Of%C3%ADcio.docx&action=default&mobileredirect=true) com o seguinte prompt na IA:
 
->Substitua os xx pelos textos armazenados correspondentes, não altere o restante do texto e não entregue o resultado como um arquivo externo.
+>Substitua os xx pelos textos armazenados correspondentes, não altere o restante do texto e não entregue o resultado como um arquivo externo. Atente-se para o plural com base no número estabelecido no parâmetro "Órgãos e Siglas"
 
 ##Preposição de Lei
 
@@ -114,6 +117,7 @@ Desconsidere qualquer conhecimento prévio sobre o orçamento brasileiro e siga 
 O projeto de lei deve conter dois artigos para cada unidade orçamentária:
 O primeiro artigo de cada unidade orçamentária apresenta os valores das suplementações, e seus incisos demonstram a divisão por grupo. O caput apresenta o valor global e, depois, a divisão por grupos nos incisos conforme exemplo anexo. Nesse caso, as realocações devem utilizar o valor da suplementação. Para outras origens de crédito, também deve ser usado o valor da suplementação.
 O segundo artigo de cada unidade orçamentária descreve a origem dos recursos. No caso das realocações, é o valor da anulação seguido do texto: da anulação de dotação orçamentária de (grupo), de (fonte), no valor de (valor em numeral, em reais) [(valor por extenso, em reais)]. Para outras origens, use o padrão (origem de crédito) de (fonte), no valor de (valor em numeral, em reais) (valor por extenso, em reais).
+Se o artigo tiver apenas um inciso, não é necessidade de fazer inciso. Pode colocar o texto direto no artigo.
 Os últimos dois artigos são:
 Art. x A aplicação desta Lei observará o disposto no art. 169 da Constituição da República e as normas pertinentes da Lei Complementar federal nº 101, de 4 de maio de 2000.
 Art. x Esta Lei entra em vigor na data de sua publicação.
@@ -123,7 +127,7 @@ Entregue em formato word com a mesma formatação do exemplo.
 
 Para elaborar o projeto de lei, insira este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B2F148E45-347E-4452-B9C3-A6DE74BA6CB5%7D&file=Modelo%20de%20Mensagem%20do%20Governador.docx&action=default&mobileredirect=true) com o seguinte prompt na IA:
 
->Altere este documento modelo com base nas informações anteriores. Não mude nada que não estiver entre xx e trate cada órgão como independente.
+>Altere este documento modelo com base nas informações anteriores. Não mude nada que não estiver entre xx e trate cada órgão como independente. Atente-se para o plural com base no número estabelecido no parâmetro "Órgãos e Siglas"
 
 ##Processos Concluídos
 
