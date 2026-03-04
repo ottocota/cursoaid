@@ -137,6 +137,8 @@ Para elaborar o projeto de lei, insira este [arquivo](https://cecad365.sharepoin
 
 Para uso como referência de formatação, segue uma lista de processos anteriores:
 
+1500.01.0045734/2026-23
+
 1500.01.0499446/2024-32
 
 1500.01.0309716/2024-75
