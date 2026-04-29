@@ -76,6 +76,7 @@ Vou citar os textos da origem de crédito. Espere outras informações:
 |59|Outros Recursos Vinculados|
 |60|Recursos Diretamente Arrecadados|
 |70|Convênios com os Municípios|
+|77|Taxa de Fiscalização Judiciária e Taxas e Multas Judiciais|
 
 >O valor, se a origem de crédito for realocação, deve corresponder ao valor da anulação. Se a origem de crédito for outra, deve corresponder ao valor da suplementação. 
 
@@ -88,7 +89,7 @@ Vou citar os textos da origem de crédito. Espere outras informações:
 O trecho que começa com "o crédito suplementar ao orçamento da unidade orçamentária" deve ficar logo abaixo da tabela e os fatores de composição deve estar listados com •.
 
 ##Exposição de Motivos
-Para elaborar o texto da exposição de motivos, basta inserir este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B06B96B58-3471-48F1-A916-8B10D5F0CA9B%7D&file=Modelo%20-%20Exposi%C3%A7%C3%A3o%20de%20Motivos.docx&action=default&mobileredirect=true) e o seguinte prompt na IA:
+O formato da exposição de motivos está no texto padrão SEI 537412. Ele deve obeceder esse formato de quadros. Para elaborar o texto da exposição de motivos, basta inserir este [arquivo](https://cecad365.sharepoint.com/:w:/r/sites/Splor/_layouts/15/Doc.aspx?sourcedoc=%7B06B96B58-3471-48F1-A916-8B10D5F0CA9B%7D&file=Modelo%20-%20Exposi%C3%A7%C3%A3o%20de%20Motivos.docx&action=default&mobileredirect=true) e o seguinte prompt na IA:
 
 >Substitua os xx pelos textos armazenados nos parâmetros, não altere o restante do texto e não entregue o resultado como um arquivo externo. Atente-se para o plural com base no número estabelecido no parâmetro "Órgãos e Siglas".
 
