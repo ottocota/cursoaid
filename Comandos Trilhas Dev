@@ -33,3 +33,11 @@ Markdown
   [texto]{URL}
   ![texto](url)
   `código inline`
+
+Python
+  python3 nomedoarquivo.py # ativa o código 
+  print () # escreve algo na tela
+  input () # pergunta ao usuário
+  int () # transforma uma string em um inteiro
+  str () # transforma em string
+  type () # informa a classe do objeto
