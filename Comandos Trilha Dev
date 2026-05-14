@@ -41,3 +41,10 @@ Python
   int () # transforma uma string em um inteiro
   str () # transforma em string
   type () # informa a classe do objeto
+  f'' # trata tudo entre as aspas como string. Tem que abrir chave para colocar o nome
+  len() informa número de caracteres
+  nome.upper() # coloca os caracteres em formato maiúsculo
+  nome.lower() # coloca os caracteres em formato minúsculo
+  nome.find () # indica qual posição está o caracter especificado. Se não existe, informa -1
+  nome.replace('string a substituir','string repositora') # substitui um texto por outro, não muda a variável
+  ('string a buscar' in curso) # informa se o texto está no nome
