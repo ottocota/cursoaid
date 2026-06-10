@@ -49,6 +49,10 @@ Python
   nome.replace('string a substituir','string repositora') # substitui um texto por outro, não muda a variável
   ('string a buscar' in curso) # informa se o texto está no nome
   poetry run task test # testa se o exercíco está correto
-  if # condicionante
-  elif # else + if
-  else # se o condicionante não for verdadeiro
+  Condicionantes
+    if # condicionante
+    elif # else + if
+    else # se o condicionante não for verdadeiro
+    and # acrescenta outra condicionante no if
+    or # acrescenta uma condicionante e ela pode ou não ser verdadeira
+    not # é usada com o and, condiciona que algo deve ser false
