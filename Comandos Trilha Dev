@@ -56,3 +56,8 @@ Python
     and # acrescenta outra condicionante no if
     or # acrescenta uma condicionante e ela pode ou não ser verdadeira
     not # é usada com o and, condiciona que algo deve ser false
+  Operadores
+    > maior
+    < menor
+    != diferente
+    == igual
